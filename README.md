@@ -33,7 +33,7 @@ Before you begin, ensure you have the following prerequisites:
 
 ```bash
 git clone <repository_url> 
-cd Q2_Enrollment_TS
+cd Enrollment-dApp
 ````
 
 2. Install the necessary dependencies:
