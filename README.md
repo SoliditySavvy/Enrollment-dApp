@@ -1,6 +1,6 @@
-# Q3_Enrollment_TS
+# WBA-PreReqQ3
 
-Q3_Enrollment_TS is a TypeScript program designed to guide you through the process of enrolling in the Web3 Blockchain Academy (WBA) Q3 pre-requisites course on the Solana blockchain.
+WBA-PreReqQ3 is a TypeScript program designed to guide you through the process of enrolling in the Web3 Blockchain Academy (WBA) Q3 pre-requisites course on the Solana blockchain.
 
 ## Table of Contents
 
