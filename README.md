@@ -33,7 +33,7 @@ Before you begin, ensure you have the following prerequisites:
 
 ```bash
 git clone <repository_url> 
-cd Enrollment-dApp
+cd WBA-PreReqQ3
 ````
 
 2. Install the necessary dependencies:
